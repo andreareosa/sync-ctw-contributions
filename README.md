@@ -2,9 +2,10 @@
 
 ## Overview
 
-This repository, **Sync CTW Contributions**, is designed to retrieve and sync my contribution history for BMW Critical Techworks. As BMW CTW uses its own instance of GitHub, I am unable to use my personal GitHub account to reflect my contributions accurately.
+This repository, **Sync CTW Contributions**, is designed to retrieve and sync some of contribution history for BMW Critical Techworks. As BMW CTW uses its own instance of GitHub, I am unable to use my personal GitHub account to reflect my contributions accurately. This project retrieves all contributions from my local BMW repositories and generates corresponding GitHub contributions on my personal account. However, due to certain limitations, the repository names and organization details are not visible. Nevertheless the following screenshots demonstrate the entire flow:
 
 ![alt text](image.png)
+![alt text](image-1.png)
 
 ## Acknowledgments
 
