@@ -11,7 +11,7 @@ However, due to certain limitations, the repository names and organization detai
 
 ## Acknowledgments
 
-This project uses [sync-external-contributions](https://github.com/andreareosa/sync-external-contributions). It uses `git-standup` to read all authored contributions on local repositories and generate GitHub contribution activity for each commit linked to the user.
+This project uses [sync-external-contributions](https://github.com/charpeni/sync-external-contributions). It uses `git-standup` to read all authored contributions on local repositories and generate GitHub contribution activity for each commit linked to the user.
 
 ## Purpose
 
